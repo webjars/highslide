@@ -1,5 +1,5 @@
-WebJar for [Library]
+WebJar for Highslide JS
 
 More info: http://webjars.org
 
-Upstream: [Library URL]
+Upstream: http://highslide.com
