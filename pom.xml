@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>highslide</artifactId>
-    <version>4.1.13</version>
+    <version>4.1.14-SNAPSHOT</version>
     <name>Highslide</name>
     <description>WebJar for Highslide</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/highslide</url>
         <connection>scm:git:https://github.com/webjars/highslide.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/highslide.git</developerConnection>
-        <tag>highslide-4.1.13</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
